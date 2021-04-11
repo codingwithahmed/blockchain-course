@@ -1,0 +1,18 @@
+{
+  "name": "practice-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Block",
+    "Chain"
+  ],
+  "author": "AhmedAzi",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
